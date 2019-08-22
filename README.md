@@ -17,12 +17,10 @@
 	</a>
 </div>
 
-This is a simple REST Web Service which allow:
+This is a simple REST Web Service:
 
-  * Post short text messages of no more than 120 characters
-  * Bring a list with the latest published messages
-  * Search for messages by your text
-  * Delete a specific message by its id
+  * Get Authorization
+  * Validate Authorization
 
 <a name="started"></a>
 ## :traffic_light: Getting Started

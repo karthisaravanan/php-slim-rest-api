@@ -1,0 +1,20 @@
+{
+    "name": "karthisaravanan/php-slim-rest-api",
+    "description": "REST API with PHP Slim Framework 3 and MySQL",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Saravanan M",
+            "email": "karthisaravanan262@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.4",
+        "slim/slim": "^3.9",
+        "monolog/monolog": "^1.23",
+        "vlucas/phpdotenv": "^2.5",
+        "tuupola/slim-jwt-auth": "^2.3",
+        "phpmailer/phpmailer": "^6.0"
+    }
+}

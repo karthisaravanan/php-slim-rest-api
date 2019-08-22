@@ -103,9 +103,9 @@ $ php -S localhost:8000
 
 ### Routes
 
-  * `get` => `/ping` - This method is used for testing the api. e.g.:
+  * `get` => `/authorize` - This method is used for testing the api. e.g.:
 
-    > uri = `/public/api/v1/ping`
+    > uri = `/public/api/v1/authorize`
 
 <a name="license"></a>
 ## :memo: License
